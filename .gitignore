@@ -1,0 +1,6 @@
+*.*
+mongo-demo
+Express1/node_modules/*
+!Express1
+Express1/node_modules/
+
