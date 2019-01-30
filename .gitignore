@@ -1,6 +1,7 @@
-*.*
-mongo-demo
-Express1/node_modules/*
-!Express1
-Express1/node_modules/
-
+.gitignore
+4.1- Express/
+4.14- Project- Genres Endpoint/
+6.12- Exercise/
+AyncProject/
+mongo-demo/
+practice/
