@@ -2,6 +2,13 @@
 4.1- Express/
 4.14- Project- Genres Endpoint/
 6.12- Exercise/
+7.14- Exercise/
+13.16- Testing PUT and DELETE Routes/
 AyncProject/
+Express1/
 mongo-demo/
 practice/
+node_modules
+vidly/
+testing-demo/
+package-lock.json
